@@ -34,7 +34,7 @@ sudo apt-get install -y \
   libxkbfile-dev \
   libsecret-1-dev
 ```
-* `curl -sL https://deb.nodesource.com/setup_12.x | sudo bash -`
+* `curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -`
 * `sudo apt-get install -y nodejs`
 * Verify node install: `node -v`
 * Verify npm: `npm -v`
